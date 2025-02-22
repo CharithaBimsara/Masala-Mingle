@@ -55,7 +55,7 @@ nav a:hover {
     width: 100%;
     height: 80vh;
     top: 0;
-    background-image: url(idia.jpg);
+    background-image: url(../img/idia.jpg);
     backdrop-filter: blur(10px);
     background-repeat: no-repeat;
     background-size: cover;
