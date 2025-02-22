@@ -2,7 +2,7 @@
 
 Welcome to **Masala Mingle** – your gateway to the vibrant world of **Indian cuisine!** 🇮🇳🍽️ This repository contains the source code for our cooking website, where users can explore **authentic Indian recipes** categorized into **appetizers, mains, and desserts**.
 
-## 🖼 Demo 
+## 🖼 [Live Demo](https://charithabimsara.github.io/Masala-Mingle/)
 
 ![Demo Screenshot](img/demo.png)
 
